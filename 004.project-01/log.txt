@@ -1,0 +1,13 @@
+1706173706159 || ::1 || GET : /api/users1706206161708 || ::1 || POST : /api/users
+1706206220327 || ::1 || POST : /api/users
+1706206731491 || ::1 || POST : /api/users
+1706206921259 || ::1 || GET : /api/users
+1706206961269 || ::1 || GET : /api/users
+1706207027469 || ::1 || GET : /users
+1706207036403 || ::1 || GET : /users
+1706207171190 || ::1 || POST : /api/users
+1706207175588 || ::1 || GET : /users
+1706208751233 || ::1 || PATCH : /api/users/65b2a60ba9ba1c0ab1e635
+1706208768400 || ::1 || PATCH : /api/users/65b2a60ba9ba1c0ab1e63590
+1706208863113 || ::1 || PATCH : /api/users/65b2a60ba9ba1c0ab1e63590
+1706208880503 || ::1 || DELETE : /api/users/65b2a60ba9ba1c0ab1e63590
